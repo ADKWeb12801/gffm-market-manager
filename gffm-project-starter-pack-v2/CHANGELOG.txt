@@ -1,0 +1,4 @@
+2025-08-19  Project Starter Pack v2
+- Repo‑ready structure (docs, codex prompts, templates, .github)
+- Added Phase‑1 Codex prompt (short + detailed)
+- Included plugin v3.1.2 for reference testing

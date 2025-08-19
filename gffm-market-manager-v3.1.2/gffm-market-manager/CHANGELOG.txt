@@ -1,0 +1,7 @@
+
+2025-08-19 v3.1.0-phase0
+- Added custom DB schema (dbDelta) and activation hook
+- Added Setup Wizard (placeholder UI)
+- Added Integrations tab (OpenAI, Square, QuickBooks toggle)
+- Added Vendor Portal magic-link auth + shortcode [gffm_portal]
+- Added vendor meta box 'Send Magic Link'
